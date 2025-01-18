@@ -1,5 +1,3 @@
-Here’s a comprehensive README file tailored to your project:
-
 # GenAI LLM Chatbot 🤖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
